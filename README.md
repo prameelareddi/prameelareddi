@@ -14,7 +14,7 @@ I'm Prameela Reddi, a Data Scientist passionate about solving complex problems w
 
 😄 **Pronouns:** She/Her
 
-⚡ **Fun Fact:** I love solving puzzles, from code challenges to Sudoku!
+⚡ **Fun Fact:** ⚡ Fun Fact: I'm 90% coffee, 10% code, and 100% convinced that debugging is just a fancy word for "I have no idea what's going on!" ☕💻😄
 
 Thanks for visiting, and feel free to explore my repositories! Looking forward to connecting with you!
 
