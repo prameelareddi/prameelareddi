@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prameelareddi/)
 
-⚡ **Fun Fact:** ⚡ Fun Fact: I'm 90% coffee, 10% code, and 100% convinced that debugging is just a fancy word for "I have no idea what's going on!" ☕💻😄
+⚡ **Fun Fact:** In data science and our personal lives, predictions are determined by their historical data. 🧐📆
 
 Thanks for visiting, and feel free to explore my repositories! Looking forward to connecting with you!
 
