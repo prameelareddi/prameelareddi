@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Prameela Reddi, a Data Scientist passionate about solving complex problems with data.
+ ## I'm Prameela Reddi, a Data Scientist passionate about solving complex problems with data.
 
 🔭 **Currently:** Exploring advanced Machine Learning,LLM models, contributing to open-source projects.
 
@@ -12,7 +12,8 @@ I'm Prameela Reddi, a Data Scientist passionate about solving complex problems w
 
 📫 **Contact:** Connect with me on GitHub or via [email](mailto:prameelareddi1610@gmail.com).
 
-😄 **Pronouns:** She/Her
+Connect with me :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prameelareddi/)
 
 ⚡ **Fun Fact:** ⚡ Fun Fact: I'm 90% coffee, 10% code, and 100% convinced that debugging is just a fancy word for "I have no idea what's going on!" ☕💻😄
 
