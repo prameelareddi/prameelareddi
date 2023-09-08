@@ -8,7 +8,7 @@
 
 👯 **Collaborate:** Open to innovative data science projects and connecting with data enthusiasts.
 
-💬 **Ask Me About:** Data analysis, ML model deployment, data-driven decision-making.
+💬 **Ask Me About:** Data analysis, ML models, deployment, data-driven decision-making.
 
 📫 **Contact:** Connect with me on GitHub or via [email](mailto:prameelareddi1610@gmail.com).
 
