@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## Say Hello to Prameela Reddi
+## 𝐒𝐚𝐲 𝐇𝐞𝐥𝐥𝐨 𝐭𝐨 𝐏𝐫𝐚𝐦𝐞𝐞𝐥𝐚 𝐑𝐞𝐝𝐝𝐢
 A passionate data enthusiast with a knack for transforming data chaos into charm ✨
 
 🔭 **Currently:** Exploring advanced Machine Learning and LLM models, contributing to open-source projects.
