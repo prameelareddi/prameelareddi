@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-## Prameela Reddi
-Data Enthusiast | Turning Data Chaos into Charm ✨
+## Say Hello to Prameela Reddi
+A passionate data enthusiast with a knack for transforming data chaos into charm ✨
 
 🔭 **Currently:** Exploring advanced Machine Learning and LLM models, contributing to open-source projects.
 
