@@ -1,23 +1,60 @@
-# Hi there! 👋
+# Hi there! 👋  
 
-## 𝐒𝐚𝐲 𝐇𝐞𝐥𝐥𝐨 𝐭𝐨 𝐏𝐫𝐚𝐦𝐞𝐞𝐥𝐚 𝐑𝐞𝐝𝐝𝐢
-A passionate data enthusiast with a knack for transforming data chaos into charm ✨
+## 👩‍💻 Prameela Reddi  
+**Data Scientist | Generative AI | LLM | RAG Systems**
 
-🔭 **Currently:** Exploring advanced Machine Learning and LLM models, contributing to open-source projects.
+Passionate about building intelligent, production-grade AI systems that turn complex data into impactful solutions.
 
-🌱 **Learning:** Embracing Docker 🐳 and mastering PySpark 🔥 for enhanced data processing.
+---
 
-👯 **Collaborate:** Open to innovative data science projects and connecting with data enthusiasts!
+🔭 **Currently:**  
+Working as a Data Scientist at J.P. Morgan, building enterprise-level LLM applications and scalable AI systems.
 
-💬 **Ask Me About:** LLMs, Chatbots, data analysis, ML models, deployment, data-driven decision-making.
+🌱 **Learning & Exploring:**  
+Advanced LLM optimization, AI Agents, Docker 🐳, and distributed data processing with PySpark 🔥.
 
-📫 **Contact:** Connect with me on [GitHub](https://github.com/Prameela1610) or via [email](mailto:prameelareddi1610@gmail.com).
+👯 **Looking to Collaborate On:**  
+Generative AI, RAG-based systems, intelligent chatbots, and real-world ML applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prameelareddi/)
+💬 **Ask Me About:**  
+LLMs, RAG architecture, Chatbot development, FastAPI, NLP, SQL, and end-to-end AI system design.
 
-⚡ **Fun Fact:** In data science and our personal lives, predictions are determined by historical data. 🧐📆
+---
 
-Thanks for visiting! Feel free to explore my repositories. Looking forward to connecting with you! 🚀✨
+## 🚀 Featured Projects
+- 🤖 **HRMS Chatbot (LLM + RAG + FastAPI)**  
+  Enterprise AI assistant handling payroll, leave, and HR queries with secure, context-aware responses.
+
+- 🧠 **SQL ChatMate (Text-to-SQL using LLMs)**  
+  Converts natural language into optimized SQL queries with intelligent schema understanding.
+
+- 🎯 **Face Recognition System (SPOT-SIGN)**  
+  Real-time attendance system using TensorFlow and OpenCV.
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**Generative AI:** LLMs, RAG, LangChain, Prompt Engineering  
+**ML/DL:** Machine Learning, TensorFlow  
+**Frameworks:** FastAPI, FAISS, OpenCV  
+**Tools:** Hugging Face, Docker, Git  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/prameelareddi/  
+- 💻 GitHub: https://github.com/Prameela1610  
+- 📧 Email: prameelareddi1610@gmail.com  
+
+---
+
+⚡ **Fun Fact:**  
+In both data science and life, better predictions come from better understanding of past patterns.
+
+---
+
+⭐ Feel free to explore my repositories and connect — always open to meaningful collaborations!
 
 
 
