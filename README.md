@@ -44,7 +44,7 @@ LLMs, RAG architecture, Chatbot development, FastAPI, NLP, SQL, and end-to-end A
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/prameelareddi/  
-- 💻 GitHub: https://github.com/Prameela1610  
+- 💻 GitHub: https://github.com/Prameelareddi  
 - 📧 Email: prameelareddi1610@gmail.com  
 
 ---
