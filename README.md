@@ -20,7 +20,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🔭 Data Scientist at **J.P. Morgan**
+- 🔭 Data Scientist
 - 🤖 Building **LLM-powered applications & RAG systems**
 - ⚡ Focused on **production-grade AI, scalability & performance**
 - 🌱 Exploring **AI Agents, Docker 🐳, PySpark 🔥**
